@@ -1,0 +1,3 @@
+Pikachu 1 500 500 0 fire false
+Squirtle 2 540 540 10 water false
+Swinub 1 500 500 10 ice false

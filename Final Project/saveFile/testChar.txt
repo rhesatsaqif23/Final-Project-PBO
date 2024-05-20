@@ -1,0 +1,1 @@
+(Charmander, 1, 500)
